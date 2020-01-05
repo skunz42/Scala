@@ -1,1 +1,3 @@
 # Scala
+
+Teaching myself Scala
